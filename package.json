@@ -1,0 +1,29 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "to do app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon start server.js",
+    "start": "node server.js"
+  },
+  "author": "Echefu Toby",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/icons": "^6.1.0",
+    "antd": "^6.1.4",
+    "axios": "^1.13.2",
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.1",
+    "react-router": "^7.11.0",
+    "react-router-dom": "^7.11.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}

@@ -1,0 +1,22 @@
+body{
+  overflow-x: hidden;
+}
+.landing_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    padding: 2rem;
+}
+
+.landing_text{
+    width:40%;
+
+}
+.landing_text h1{
+    font-size: 4rem;
+}
+
+.landing_img{
+    width:50%;
+    margin-left: 2rem;
+}
